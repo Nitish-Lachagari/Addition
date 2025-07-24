@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\25th june\Practice-Abstraction\Addition\AdditionNumber.Models\AdditionNumber.Models.csproj" />
+    <ProjectReference Include="..\..\..\25th june\Practice-Abstraction\PracticeAbstraction.Managers\PracticeAbstraction.Managers.csproj" />
+    <ProjectReference Include="..\..\..\25th june\Practice-Abstraction\PracticeAbstraction.Models\PracticeAbstraction.Models.csproj" />
+    <ProjectReference Include="..\AdditionNumber.Models\AdditionNumber.Models.csproj" />
+  </ItemGroup>
+
+</Project>
