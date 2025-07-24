@@ -8,6 +8,6 @@ namespace AdditionNumber.Models
 {
     public class AdditionNumberResultModel
     {
-        public int Result {  get; set; }
+        public int Result {  get; set; } //this is result model
     }
 }
