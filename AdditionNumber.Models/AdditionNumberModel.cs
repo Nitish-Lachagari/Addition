@@ -3,6 +3,6 @@
     public class AdditionNumberModel
     {
         public int Number1 {  get; set; } //this is Num1 n
-        public int Number2 {  get; set; } // this is num2 
+        public int Number2 {  get; set; } // this is num2 n
     }
 }
