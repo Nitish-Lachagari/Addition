@@ -9,7 +9,7 @@ namespace AdditionNumber.Managers
             int value = input.Number1 + input.Number2;
             return new AdditionNumberResultModel()
             {
-               Result = value
+               Result = value// this is result
             };
         }
     }
